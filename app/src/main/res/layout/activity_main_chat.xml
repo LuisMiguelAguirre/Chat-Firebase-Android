@@ -6,8 +6,7 @@
                 android:paddingLeft="@dimen/activity_horizontal_margin"
                 android:paddingRight="@dimen/activity_horizontal_margin"
                 android:paddingTop="@dimen/activity_vertical_margin"
-                android:background="@color/light_purple"
-                tools:context="com.londonappbrewery.flashchatnewfirebase.MainChatActivity">
+                tools:context="com.mobileappcompany.chatfirebase.MainChatActivity">
 
     <ListView
         android:id="@+id/chat_list_view"
@@ -44,7 +43,6 @@
         <ImageButton
             android:id="@+id/sendButton"
             android:padding="10dp"
-            android:background="@drawable/circle_shape"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@android:drawable/ic_menu_send"
