@@ -1,4 +1,4 @@
-package com.mobileappcompany.chatfirebase;
+package com.mobileappcompany.chatfirebase.chat;
 
 import android.app.Activity;
 import android.content.Context;
@@ -13,6 +13,7 @@ import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
+import com.mobileappcompany.chatfirebase.R;
 
 import java.util.ArrayList;
 

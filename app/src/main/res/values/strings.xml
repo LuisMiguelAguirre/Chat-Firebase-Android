@@ -1,4 +1,7 @@
 <resources>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_in">Signed In</string>
+    <string name="sign_out">Sign Out</string>
     <string name="app_name">Chat</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_username">Username</string>
@@ -18,4 +21,8 @@
         completions."
     </string>
     <string name="sample_message">Hello!</string>
+
+    <string name="facebook_app_id">1047296755407068</string>
+    <string name="fb_login_protocol_scheme">fb1047296755407068</string>
+
 </resources>

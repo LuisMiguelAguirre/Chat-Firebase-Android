@@ -1,4 +1,4 @@
-package com.mobileappcompany.chatfirebase;
+package com.mobileappcompany.chatfirebase.chat;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -13,6 +13,8 @@ import android.widget.TextView;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.mobileappcompany.chatfirebase.R;
+import com.mobileappcompany.chatfirebase.RegisterActivity;
 
 
 public class MainChatActivity extends AppCompatActivity {

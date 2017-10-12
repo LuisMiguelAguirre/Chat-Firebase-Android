@@ -1,4 +1,4 @@
-package com.mobileappcompany.chatfirebase;
+package com.mobileappcompany.chatfirebase.chat;
 
 /**
  * Created by Admin on 10/10/2017.
